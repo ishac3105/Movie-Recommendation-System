@@ -1,19 +1,6 @@
-**SCHOOL OF COMPUTER SCIENCE AND ENGINEERING** 
-
 ![](Aspose.Words.b877c777-173b-4ec1-8243-651824fac885.001.png)
 
 **Movie Recommendation System Review Analysis** 
-
-**Submitted for**           **DIGITAL MARKETING** 
-
-Submitted by:                       **(E23MCAG0013)  Isha Kumari** 
-
-`                                              `**(E23MCAG0109)        Kanupriya** 
-
-Submitted to-        **Dr. Arun Chaudhary** 
-
-**Jan-May 2024** 
-
 **INDEX ![](Aspose.Words.b877c777-173b-4ec1-8243-651824fac885.002.png)**
 
 
