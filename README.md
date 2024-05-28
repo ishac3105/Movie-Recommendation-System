@@ -1,33 +1,12 @@
 
 # Movie Recommendation System using PySpark
+
+
+<img src="https://github.com/ishac3105/Movie-Recommendation-System/assets/71486274/17fa4891-f0eb-4b98-b20e-aa623da2ef4f" width="800" />
+
 ![](Aspose.Words.b877c777-173b-4ec1-8243-651824fac885.001.png)
 
 **Movie Recommendation System Review Analysis** 
-**INDEX ![](Aspose.Words.b877c777-173b-4ec1-8243-651824fac885.002.png)**
-
-
-
-|Sr No |Content |Page No |
-| - | - | - |
-|1\. |Abstract and Introduction |4 |
-|2\. |Library Used and Methodology |6-8 |
-|3\. |Experimental Result and Conclusions |9-10 |
-|4\. |References |10 |
-
-
-
-|**Figure No.**||**Title**|**Page No.**|
-| - | :- | - | - |
-|||||
-|1 ||Movie rating Dataset by User|6 |
-|2 ||Total number of ratings given by individual user |7 |
-|3 ||Total number of ratings received on every movie|7 |
-|4 ||Generated recommended movie list for all users |8 |
-|5 ||Elaborated movie recommendation set for the user|8 |
-|6 ||Final outcome of movie |6 |
-|||recommendation based on ||
-|||user’s interest||
-**Abstract** 
 
 Movie recommendation system participate in a significant role in entertainment industry by recommending users new movies based on their previous history. It is an indispensable tool for navigating our users for the comprehensive range of movie options available. This system utilizes  or  practice  various  technologies,  such  as  content-based  filtering,  collaborative filtering and hybrid approaches to produce personalized recommendations. Content based filtering main focal point is on the attribute of the movies and user likings to meet the user’s taste. Collaborative filtering analyses users’ reactions to pick out similar article. Hybrid approach merge these formulas to enhance the accuracy and content of recommendations. The review inspects the role of deep learning for boosting the recommendation system performance. In essence, our project recognizes key challenges, like data deficiency, cold start problems and also suggests future research supervision to label these questioning and revamp the mostly effectiveness of the recommendation system. 
 
